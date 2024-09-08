@@ -12,7 +12,7 @@ I've been coding and  honing my skills in full-stack development. I'm passionate
 - Exploring new frameworks and tools to enhance my development workflow.
 
 ## 🌱 Always Learning:
-- Improving my skills in **JavaScript**, **React**, and **Node.js**.
+- Improving my skills in **JavaScript** and **React**.
 - Ambitious to pivot and strengthen my backend skills, while continuing to build front-end projects.
 
 
