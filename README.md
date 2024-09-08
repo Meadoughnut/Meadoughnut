@@ -26,7 +26,7 @@ I've been coding and  honing my skills in full-stack development. I'm passionate
 
 ## 📫 How to Reach Me:
 - Email: [Via email](mailto:meadinmenbere488@gmail.com) 
-- LinkedIn: [via Linkedin](#https://www.linkedin.com/in/meadin-menbere/)
+- LinkedIn: [via linkedin](#https://www.linkedin.com/in/meadin-menbere/)
 
 ## ⚡ Fun Fact:
 I enjoy solving complex coding problems and love the challenge of turning ideas into reality.
@@ -36,7 +36,7 @@ Let's connect and build something amazing together!
 
 # Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vscode,react,tailwind,md,react,discord,git,github,html,css,ps,bash&theme=dark"
+<img src="https://skillicons.dev/icons?i=js,ts,vscode,react,tailwind,md,react,discord,git,github,html,css,ps,bash&theme=dark">
 </p>
  
  <details>
