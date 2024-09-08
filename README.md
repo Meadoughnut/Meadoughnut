@@ -36,7 +36,7 @@ Let's connect and build something amazing together!
 
 # Skills
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,vercel,vscode,react,tailwind,md,discord,git,github,html,css,mongodb,mysql,postgres,sqlite,sequelize,express,powershell,electron,ps,bash&theme=dark"
+<img src="https://skillicons.dev/icons?i=js,ts,vscode,react,tailwind,md,react,discord,git,github,html,css,ps,bash&theme=dark"
 </p>
  
  <details>
