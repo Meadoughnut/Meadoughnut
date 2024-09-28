@@ -42,7 +42,7 @@ Let's connect and build something amazing together!
  <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Almire24&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=Meadoughnut&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meadoughnut&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
 </details>
 
